@@ -36,7 +36,55 @@ namespace ConsoleApp3
             //    }
 
 
-            
+            //-------
+
+
+            //string[] names = { "Ulduz", "Fatma", "Umud", "Uğur" };
+
+
+            //Console.WriteLine("Adinda u herfi olanlar:");
+            //for (int i = 0; i < names.Length; i++)
+            //{
+            //    string name = names[i];
+            //    bool u = false;
+            //    foreach (char harf in name)
+            //    {
+            //        if (harf == 'u' || harf == 'U')
+            //        {
+            //            u = true;
+            //            break;
+            //        }
+            //    }
+
+            //    if (u)
+            //    {
+            //        Console.WriteLine(name);
+
+
+            //        string newname = "";
+            //        foreach (char harf in name)
+            //        {
+            //            if (harf == 'u')
+            //                newname += 'e';
+            //            else if (harf == 'U')
+            //                newname += 'E';
+            //            else
+            //                newname += harf;
+            //        }
+            //        Console.WriteLine("Deyisdikden sonra: " + newname);
+
+
+            //        names[i] = newname;
+            //    }
+            //}
+
+
+            //Console.WriteLine("Massivin yeni hali");
+            //foreach (string item in names)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
         }
     }
 }
