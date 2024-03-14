@@ -85,6 +85,37 @@ namespace ConsoleApp3
             //    Console.WriteLine(item);
             //}
 
+
+
+
+
+
+
+
+
+            //int[] arr = { 1, 23, 3, 4, 25, 6, 9, 7, 11 };
+
+
+            //int arrayuzunluq = arr.Length / 3;
+            //int kalan = arr.Length % 3;
+
+
+            //int Index = 0;
+            //for (int i = 0; i < 3; i++)
+            //{
+
+            //    int parca = arrayuzunluq + (i < kalan ? 1 : 0);
+
+
+            //    Console.Write($"Massiv {i + 1}: ");
+            //    for (int j = 0; j < parca; j++)
+            //    {
+            //        Console.Write(arr[Index + j] + " ");
+            //    }
+            //    Console.WriteLine();
+
+
+            //    Index += parca;
         }
     }
 }
